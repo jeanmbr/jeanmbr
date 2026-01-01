@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`** **`Técnico em Informática`**
 
 Me chamo Jean Machado Brasil, tenho 17 anos e sou natural de Juiz de Fora (MG).
-Atualmente curso o 2º ano do ensino médio, concomitante com o técnico em informática.
+Atualmente curso o 3º ano do ensino médio, concomitante com o técnico em informática.
 Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e desafios para evoluir como desenvolvedor.
 
 ---
