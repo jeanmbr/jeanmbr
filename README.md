@@ -57,6 +57,15 @@ Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e des
 
 <img 
     align="left" 
+    alt="VueJS"
+    title="VueJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
