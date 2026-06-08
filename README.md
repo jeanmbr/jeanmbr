@@ -26,14 +26,14 @@ Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e des
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jeanmbr&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeanmbr&show_icons=true&theme=gotham" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmbr&theme=gotham&layout=compact&langs_count=9&locale=pt-br" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorDoring&layout=compact&theme=gotham" 
   />
 
 </p>
