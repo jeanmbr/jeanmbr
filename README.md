@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jean Machado
+<h1>Jean Machado</h1>
 
 **`Desenvolvedor FullStack`** **`Técnico em Informática`**
 
@@ -6,9 +6,9 @@ Me chamo Jean Machado Brasil, tenho 17 anos e atuo como Desenvolvedor Full Stack
 Atualmente curso o 3º ano do ensino médio, concomitante com o técnico em informática.
 Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e desafios para evoluir como desenvolvedor. 
 
----
-
-## 🤖 Linguagens e Tecnologias
+<h1 align="center">
+  <strong>Linguagens e Tecnologias </strong>
+</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
