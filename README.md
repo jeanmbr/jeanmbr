@@ -6,7 +6,6 @@ Me chamo Jean Machado Brasil, tenho 17 anos e atuo como Desenvolvedor Full Stack
 Atualmente curso o 3º ano do ensino médio, concomitante com o técnico em informática.
 Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e desafios para evoluir como desenvolvedor.
 
----
 
 <h2 align="center">Linguagens e Tecnologias</h2>
 
@@ -19,7 +18,6 @@ Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e des
   </a>
 </p>
 
----
 
 <h2 align="center">Estatísticas do GitHub</h2>
 
