@@ -1,10 +1,10 @@
 <h1 align="left">Jean Machado</h1>
 
-**`Desenvolvedor Full Stack`** **`Técnico em Informática`**
+**`Full Stack`** **`Spring Boot`** **`Vue.js`**
 
-Me chamo Jean Machado Brasil, tenho 18 anos e atuo como Desenvolvedor Full Stack.
-Atualmente curso o 3º ano do ensino médio, concomitante com o técnico em informática.
-Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e desafios para evoluir como desenvolvedor.
+Sou Jean Machado Brasil, Desenvolvedor Full Stack e técnico em Informática formado pelo Colégio Técnico Antônio Teixeira Fernandes. 
+Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios que contribuam para meu crescimento profissional 
+e aprimoramento das minhas habilidades como desenvolvedor.
 
 
 <h2 align="center">Linguagens e Tecnologias</h2>
