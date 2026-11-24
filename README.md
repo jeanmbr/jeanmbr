@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novas habilidades e des
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb,nodejs,vue,bootstrap&perline=5"
+      src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,mongodb,nodejs,vue,bootstrap&perline=5"
       alt="Linguagens e tecnologias"
     />
   </a>
